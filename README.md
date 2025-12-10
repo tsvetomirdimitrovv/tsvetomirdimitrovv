@@ -3,7 +3,7 @@
 I build practical software with a fast-learning mindset and a focus on results.
 
 [![Profile Views](https://komarev.com/ghpvc/?username=tsvetomirdmitrovv&color=blue)](https://github.com/tsvetomirdmitrovv)
-![Languages](https://img.shields.io/badge/Tech-HTML%20%7C%20CSS%20%7C%20PHP%20%7C%20MySQL%20%7C%20Java-blue)
+![Tech](https://img.shields.io/badge/Tech-HTML%20%7C%20CSS%20%7C%20PHP%20%7C%20MySQL%20%7C%20Java-blue)
 ![Role](https://img.shields.io/badge/Role-Junior%20Developer-orange)
 
 ## About Me
@@ -11,6 +11,12 @@ I build practical software with a fast-learning mindset and a focus on results.
 - Practical thinker, fast learner, steady under pressure
 - I focus on building working systems, not overcomplicated code
 - Languages: Bulgarian (native), English (working proficiency)
+
+## Why You Should Consider Me
+- I don’t just study — I build working software.
+- I learn new technologies quickly and apply them immediately.
+- I stay calm and effective under pressure.
+- I turn requirements into clean, functional results.
 
 ## Tech Stack
 Frontend: HTML5, CSS3, JavaScript  
@@ -38,12 +44,6 @@ Link: https://github.com/tsvetomirdmitrovv/online-shopping-php
 ### Logic Programming (Prolog)
 Rules, facts, recursion, and inference-based logic.  
 Link: https://github.com/tsvetomirdmitrovv/logical-pr
-
-## Why You Should Consider Me
-- I don’t just study — I build working software.
-- I learn new technologies quickly and apply them immediately.
-- I stay calm and effective under pressure.
-- I turn requirements into clean, functional results.
 
 ## Contact
 Varna, Bulgaria  

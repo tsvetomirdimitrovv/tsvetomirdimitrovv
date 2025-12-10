@@ -1,43 +1,62 @@
 👋 Hey, I’m Tsvetomir
 
-Junior Developer from Varna, Bulgaria — focused on building real projects, learning fast, and delivering clean, working solutions.
+Junior Developer from Varna, Bulgaria — I build real projects, learn fast, and deliver clean, functional solutions.
 
 ⸻
 
-💡 About Me
-	•	🎓 Student at University of Economics – Varna, Informatics & Computer Science
-	•	🔧 Comfortable working across frontend and backend basics
-	•	🚀 I learn by doing, not by guessing — every project I upload is fully functional
-	•	🌍 Languages: Bulgarian (native), English (working proficiency)
+💡 Who I Am
+	•	🎓 Student at University of Economics – Varna (Informatics & CS)
+	•	🧠 I adapt quickly, think practically, and handle pressure with discipline
+	•	🔧 I don’t chase trends — I build stable systems and deliver real results
+	•	🌍 Languages: Bulgarian (native) • English (working proficiency)
 
 ⸻
 
-🛠 Tech Stack
+🛠 What I Work With
 
 Frontend: HTML5, CSS3, JavaScript
-Backend: PHP, MySQL
-Other: Java, Git & GitHub, VS Code, NetBeans
+Backend & Data: PHP, MySQL
+Other: Java, Git & GitHub, VS Code / NetBeans
 
 ⸻
 
-📦 Selected Projects
+📂 Projects & Links
 
-🛒 Online Ordering System (PHP & MySQL)
+Computer Parts Information System
 
-Complete mini e-commerce system with login, products, cart, and admin panel.
-Focus: CRUD operations, sessions, authentication, database structure.
+Full university project modeling warehouse, orders, suppliers, complaints, and user roles.
+🔗 https://github.com/tsvetomirdimitrovv/computer-parts-project
 
-🧠 Logic Model in Prolog
+Web Technologies – SmartHub Website
 
-Compact Prolog system modeling an online store using rules, facts, recursion and inference.
+Responsive front-end web shop demo with multiple pages and clean UI.
+🔗 https://github.com/tsvetomirdimitrovv/yeb-technology
 
-🌐 SmartHub Website (HTML/CSS)
+Information Systems Documentation & Models
 
-Responsive multi-page tech store site with product grid and clean UI.
+System analysis + modeling diagrams (UML, DB, processes).
+🔗 https://github.com/tsvetomirdimitrovv/information-systems
+
+Online Shopping System (PHP & MySQL)
+
+Functional e-commerce flow: login, products, cart, orders, admin pages.
+🔗 https://github.com/tsvetomirdimitrovv/online-shopping-php
+
+Logic Programming – Prolog Store Model
+
+Rules, facts, recursion, inference-based queries.
+🔗 https://github.com/tsvetomirdimitrovv/logical-pr
+
+🔥 What I Bring to a Team
+	•	Fast learner — new tech? I pick it up and deliver.
+	•	Practical mindset — prefer functional systems over over-engineered frameworks.
+	•	Reliable under pressure — I meet deadlines, even when the task gets tough.
+	•	Ready to contribute immediately, not to “learn for weeks”.
 
 ⸻
 
-📫 Contact
+📫 Contact & Location
 
 Varna, Bulgaria
-Instagram: @tsvetomir__dimitrov
+E-mail: cecko835@gmail.com
+Instagram: https://www.instagram.com/tsvetomir__dimitrov/

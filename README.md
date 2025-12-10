@@ -52,15 +52,6 @@ E-commerce flow: login, products, cart, orders, admin panel.
 Rules, facts, recursion, and inference-based logic.  
 🔗 https://github.com/tsvetomirdmitrovv/logical-pr
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tsvetomirdmitrovv&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsvetomirdmitrovv&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=tsvetomirdmitrovv&theme=tokyonight)
 
 ---
 

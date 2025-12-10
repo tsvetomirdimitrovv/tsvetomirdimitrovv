@@ -1,16 +1,43 @@
-## Hi there 👋
+👋 Hey, I’m Tsvetomir
 
-<!--
-**tsvetomirdimitrovv/tsvetomirdimitrovv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Developer from Varna, Bulgaria — focused on building real projects, learning fast, and delivering clean, working solutions.
 
-Here are some ideas to get you started:
+⸻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 About Me
+	•	🎓 Student at University of Economics – Varna, Informatics & Computer Science
+	•	🔧 Comfortable working across frontend and backend basics
+	•	🚀 I learn by doing, not by guessing — every project I upload is fully functional
+	•	🌍 Languages: Bulgarian (native), English (working proficiency)
+
+⸻
+
+🛠 Tech Stack
+
+Frontend: HTML5, CSS3, JavaScript
+Backend: PHP, MySQL
+Other: Java, Git & GitHub, VS Code, NetBeans
+
+⸻
+
+📦 Selected Projects
+
+🛒 Online Ordering System (PHP & MySQL)
+
+Complete mini e-commerce system with login, products, cart, and admin panel.
+Focus: CRUD operations, sessions, authentication, database structure.
+
+🧠 Logic Model in Prolog
+
+Compact Prolog system modeling an online store using rules, facts, recursion and inference.
+
+🌐 SmartHub Website (HTML/CSS)
+
+Responsive multi-page tech store site with product grid and clean UI.
+
+⸻
+
+📫 Contact
+
+Varna, Bulgaria
+Instagram: @tsvetomir__dimitrov

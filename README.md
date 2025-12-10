@@ -1,64 +1,50 @@
-👋 Hey, I’m Tsvetomir
+# Hey, I'm Tsvetomir
 
-Junior Developer from Varna, Bulgaria — I build real projects, learn fast, and deliver clean, functional solutions.
+I build practical software with a fast-learning mindset and a focus on results.
 
-⸻
+[![Profile Views](https://komarev.com/ghpvc/?username=tsvetomirdmitrovv&color=blue)](https://github.com/tsvetomirdmitrovv)
+![Languages](https://img.shields.io/badge/Tech-HTML%20%7C%20CSS%20%7C%20PHP%20%7C%20MySQL%20%7C%20Java-blue)
+![Role](https://img.shields.io/badge/Role-Junior%20Developer-orange)
 
-💡 Who I Am
-	•	🎓 Student at University of Economics – Varna (Informatics & CS)
-	•	🧠 I adapt quickly, think practically, and handle pressure with discipline
-	•	🔧 I don’t chase trends — I build stable systems and deliver real results
-	•	🌍 Languages: Bulgarian (native) • English (working proficiency)
+## About Me
+- Student at University of Economics – Varna (Informatics & Computer Science)
+- Practical thinker, fast learner, steady under pressure
+- I focus on building working systems, not overcomplicated code
+- Languages: Bulgarian (native), English (working proficiency)
 
-⸻
+## Tech Stack
+Frontend: HTML5, CSS3, JavaScript  
+Backend: PHP, MySQL  
+Other: Java, Git & GitHub, VS Code, NetBeans  
 
-🛠 What I Work With
+## Projects & Links
 
-Frontend: HTML5, CSS3, JavaScript
-Backend & Data: PHP, MySQL
-Other: Java, Git & GitHub, VS Code / NetBeans
+### Computer Parts Information System
+Full university information system: warehouse, orders, suppliers, complaints, and multiple user roles.  
+Link: https://github.com/tsvetomirdmitrovv/computer-parts-project
 
-⸻
+### SmartHub Web Technologies Project
+Responsive multi-page tech store website built with HTML & CSS.  
+Link: https://github.com/tsvetomirdmitrovv/yeb-technology
 
-📂 Projects & Links
+### Information Systems – System Modeling
+Business logic modeling, UML diagrams, database design.  
+Link: https://github.com/tsvetomirdmitrovv/information-systems
 
-Computer Parts Information System
+### Online Shopping System (PHP & MySQL)
+E-commerce flow: login, products, cart, orders, admin panel.  
+Link: https://github.com/tsvetomirdmitrovv/online-shopping-php
 
-Full university project modeling warehouse, orders, suppliers, complaints, and user roles.
+### Logic Programming (Prolog)
+Rules, facts, recursion, and inference-based logic.  
+Link: https://github.com/tsvetomirdmitrovv/logical-pr
 
-🔗 https://github.com/tsvetomirdimitrovv/computer-parts-project
+## Why You Should Consider Me
+- I don’t just study — I build working software.
+- I learn new technologies quickly and apply them immediately.
+- I stay calm and effective under pressure.
+- I turn requirements into clean, functional results.
 
-Web Technologies – SmartHub Website
-
-Responsive front-end web shop demo with multiple pages and clean UI.
-
-🔗 https://github.com/tsvetomirdimitrovv/yeb-technology
-
-Information Systems Documentation & Models
-
-System analysis + modeling diagrams (UML, DB, processes).
-🔗 https://github.com/tsvetomirdimitrovv/information-systems
-
-Online Shopping System (PHP & MySQL)
-
-Functional e-commerce flow: login, products, cart, orders, admin pages.
-🔗 https://github.com/tsvetomirdimitrovv/online-shopping-php
-
-Logic Programming – Prolog Store Model
-
-Rules, facts, recursion, inference-based queries.
-🔗 https://github.com/tsvetomirdimitrovv/logical-pr
-
-🔥 What I Bring to a Team
-	•	Fast learner — new tech? I pick it up and deliver.
-	•	Practical mindset — prefer functional systems over over-engineered frameworks.
-	•	Reliable under pressure — I meet deadlines, even when the task gets tough.
-	•	Ready to contribute immediately, not to “learn for weeks”.
-
-⸻
-
-📫 Contact & Location
-
-Varna, Bulgaria
-E-mail: cecko835@gmail.com
-Instagram: https://www.instagram.com/tsvetomir__dimitrov/
+## Contact
+Varna, Bulgaria  
+Instagram: @tsvetomir__dimitrov

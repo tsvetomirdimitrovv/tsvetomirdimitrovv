@@ -25,11 +25,13 @@ Other: Java, Git & GitHub, VS Code / NetBeans
 Computer Parts Information System
 
 Full university project modeling warehouse, orders, suppliers, complaints, and user roles.
+
 🔗 https://github.com/tsvetomirdimitrovv/computer-parts-project
 
 Web Technologies – SmartHub Website
 
 Responsive front-end web shop demo with multiple pages and clean UI.
+
 🔗 https://github.com/tsvetomirdimitrovv/yeb-technology
 
 Information Systems Documentation & Models

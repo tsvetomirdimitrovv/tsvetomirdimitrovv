@@ -26,7 +26,7 @@
 ## 🧰 Tech Stack
 **Frontend:** HTML5, CSS3, JavaScript  
 **Backend:** PHP, MySQL  
-**Other:** Java, Git & GitHub, VS Code, NetBeans  
+**Other:** Java, VS Code, NetBeans  
 
 ---
 

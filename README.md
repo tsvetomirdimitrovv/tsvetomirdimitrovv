@@ -38,7 +38,7 @@ Full university information system: warehouse, orders, suppliers, complaints, an
 
 ### 🌐 SmartHub Web Technologies Project  
 Responsive multi-page tech store website built with HTML & CSS.  
-🔗 https://github.com/tsvetomirdmitrovv/yeb-technology
+🔗 https://github.com/tsvetomirdmitrovv/web-technology
 
 ### 🧩 Information Systems – System Modeling  
 Business logic modeling, UML diagrams, database design.  

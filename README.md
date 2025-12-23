@@ -34,23 +34,23 @@
 
 ### 🏭 Computer Parts Information System  
 Full university information system: warehouse, orders, suppliers, complaints, and multiple user roles.  
-🔗 https://github.com/tsvetomirdmitrovv/computer-parts-project
+🔗 https://github.com/tsvetomirdimitrovv/computer-parts-project
 
 ### 🌐 SmartHub Web Technologies Project  
 Responsive multi-page tech store website built with HTML & CSS.  
-🔗 https://github.com/tsvetomirdmitrovv/web-technology
+🔗 https://github.com/tsvetomirdimitrovv/yeb-technology
 
 ### 🧩 Information Systems – System Modeling  
 Business logic modeling, UML diagrams, database design.  
-🔗 https://github.com/tsvetomirdmitrovv/information-systems
+🔗 https://github.com/tsvetomirdimitrovv/information-systems
 
 ### 🛒 Online Shopping System (PHP & MySQL)  
 E-commerce flow: login, products, cart, orders, admin panel.  
-🔗 https://github.com/tsvetomirdmitrovv/online-shopping-php
+🔗 https://github.com/tsvetomirdimitrovv/online-shopping-php
 
 ### 🧠 Logic Programming (Prolog)  
 Rules, facts, recursion, and inference-based logic.  
-🔗 https://github.com/tsvetomirdmitrovv/logical-pr
+🔗 https://github.com/tsvetomirdimitrovv/logical-pr
 
 
 ---

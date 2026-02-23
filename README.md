@@ -8,7 +8,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Student at **University of Economics – Varna** (Informatics & Computer Science)  
+- 🎓 Student at **University of Economics – Varna** last semester  (Informatics & Computer Science) 
 - ⚡ Practical thinker, fast learner, steady under pressure  
 - 🛠 I build working systems, not overcomplicated code  
 - 🌍 Languages: Bulgarian (native), English (working proficiency)

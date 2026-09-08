@@ -38,7 +38,6 @@ Offline iPhone finance app with income and expense tracking, shared purchases, s
 
 ### 🎬 Filmarnik
 Film and TV discovery website with search, title pages, Watch Later, and responsive interface work.  
-🔗 [Website link] (https://filmarnik.eu)
 🔗 [Portfolio showcase — source private](https://github.com/tsvetomirdimitrovv/filmarnik-showcase)
 
 ### 📊 TSD Trading Indicators

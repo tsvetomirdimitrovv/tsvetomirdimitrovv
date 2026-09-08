@@ -1,83 +1,130 @@
 # 👋 Hey, I'm Tsvetomir
 
-💡 I build practical software with a fast-learning mindset and a focus on results.
-
-[![Profile Views](https://komarev.com/ghpvc/?username=tsvetomirdimitrovv&color=blue)](https://github.com/tsvetomirdimitrovv)
-![Tech](https://img.shields.io/badge/Tech-HTML%20%7C%20CSS%20%7C%20PHP%20%7C%20MySQL%20%7C%20Java-blue)
-![Role](https://img.shields.io/badge/Role-Junior%20Developer-orange)
----
+I build practical software — from web and desktop applications to mobile finance tools and custom charting indicators.
 
 ## 👨‍💻 About Me
+
 - 🎓 Bachelor's degree in **Informatics and Computer Science**, **University of Economics – Varna** — graduated in **2026**.
-- ⚡ Practical thinker, fast learner, steady under pressure  
-- 🛠 I build working systems, not overcomplicated code  
-- 🌍 Languages: Bulgarian (native), English (working proficiency)
+- 📍 Based in **Varna, Bulgaria**.
+- 🛠 Focused on usable interfaces, clear application logic, and solving everyday problems.
+- 🌍 Languages: **Bulgarian** (native), **English** (working proficiency).
 
 ---
 
-## ⭐ Why You Should Consider Me
-- 🚀 I turn ideas into **working software**  
-- ⚙️ I learn new technologies fast and apply them immediately  
-- 🔥 I stay calm and effective under pressure  
-- 🎯 I turn requirements into **clean, functional results**
+## 🛠 What I Build
+
+- **Web applications:** content discovery, online shopping, and responsive websites.
+- **Personal tools:** offline finance tracking and iPhone automation.
+- **Desktop applications:** inventory, accounts, and shopping workflows.
+- **Charting tools:** market structure and time cycle visualization.
+- **System models:** business workflows, UML diagrams, and relational data models.
 
 ---
 
 ## 🧰 Tech Stack
-**Frontend:** HTML5, CSS3, JavaScript  
-**Backend:** PHP, MySQL  
-**Other:** Java, Pine Script, MQL5, Node.js, Scriptable, VS Code, NetBeans  
+
+| Area | Technologies |
+| --- | --- |
+| Frontend | HTML5, CSS3, JavaScript |
+| Backend & Databases | PHP, Laravel, MySQL, SQLite |
+| Desktop | Java, Swing, JDBC |
+| Mobile Tools & Automation | Scriptable, Apple Shortcuts |
+| Charting | Pine Script, MQL5 |
+| Modeling & Logic | UML, ERwin, Power BI, Prolog |
+| Development Tools | Git, Node.js, VS Code, NetBeans |
 
 ---
 
-## 📂 Projects & Links
+## ⭐ Featured Projects
 
 ### 👛 Dzhob — Personal Finance Journal
-Offline iPhone finance app with income and expense tracking, shared purchases, savings goals, and a desktop demo. Built with JavaScript, Scriptable, and Shortcuts.  
-🔗 [Source code & README](https://github.com/tsvetomirdimitrovv/dzhob)
+
+An offline iPhone finance app for tracking income, expenses, shared purchases, refunds, and savings goals. Includes a separate desktop demo and automated tests.
+
+**Tech:** JavaScript · HTML · CSS · Scriptable · Apple Shortcuts  
+**Access:** Public Source
+
+[Explore the project →](https://github.com/tsvetomirdimitrovv/dzhob)
 
 ### 🎬 Filmarnik
-Film and TV discovery website with search, title pages, Watch Later, and responsive interface work.  
-🔗 [Portfolio showcase — source private](https://github.com/tsvetomirdimitrovv/filmarnik-showcase)
 
-🔗 [Website](https://filmarnik.eu)
+A film and TV discovery website with search, title pages, Watch Later, and responsive interface work across desktop and mobile screens.
+
+**Tech:** PHP · Laravel · HTML · CSS · JavaScript  
+**Access:** Private Source · Showcase
+
+[Explore the showcase →](https://github.com/tsvetomirdimitrovv/filmarnik-showcase) · [Visit the website →](https://filmarnik.eu)
 
 ### 📊 TSD Trading Indicators
-Custom TradingView tools for multi-timeframe analysis, market structure, and time cycle visualization, with related MetaTrader 5 studies.  
-🔗 [README showcase — source private](https://github.com/tsvetomirdimitrovv/trading-indicators-showcase)
 
-### 🏭 Computer Parts Information System  
-Full university information system: warehouse, orders, suppliers, complaints, and multiple user roles.  
-🔗 https://github.com/tsvetomirdimitrovv/computer-parts-project
+Custom TradingView tools for multi-timeframe comparisons, market structure, price zones, and time cycle visualization. The showcase presents four tools: Multi-TimeFrame SMT, AMD Time Cycles, Goldbach Zones, and TSD Zones & Cycles.
 
-### 🌐 SmartHub Web Technologies Project  
-Responsive multi-page tech store website built with HTML & CSS.  
-🔗 https://github.com/tsvetomirdimitrovv/yeb-technology
+**Tech:** Pine Script · TradingView  
+**Access:** Private Source · README Showcase
 
-### 🧩 Information Systems – System Modeling  
-Business logic modeling, UML diagrams, database design.  
-🔗 https://github.com/tsvetomirdimitrovv/information-systems
-
-### 🛒 Online Shopping System (PHP & MySQL)  
-E-commerce flow: login, products, cart, orders, admin panel.  
-🔗 https://github.com/tsvetomirdimitrovv/online-shopping-php
-
-### 🧠 Logic Programming (Prolog)  
-Rules, facts, recursion, and inference-based logic.  
-🔗 https://github.com/tsvetomirdimitrovv/logical-pr
-
+[Explore the showcase →](https://github.com/tsvetomirdimitrovv/trading-indicators-showcase)
 
 ---
 
-## 🎯 Goals for 2026
-- Build more complete, functional full-stack projects  
-- Improve backend depth (PHP, MySQL, architecture)  
-- Strengthen front-end skills and responsive UI design  
-- Grow my problem-solving speed and project quality  
+## 🎓 University Projects
+
+### 🖥️ Computer Parts Management System
+
+A Java desktop application with customer and employee interfaces, login and registration, computer parts inventory, and a shopping cart backed by a local database.
+
+**Tech:** Java · Swing · SQLite · JDBC · NetBeans  
+**Access:** Public Source
+
+[Explore the project →](https://github.com/tsvetomirdimitrovv/computer-parts-project)
+
+### 🛒 Online Shopping System
+
+A web-based ordering system covering product browsing, a shopping cart, checkout, account sessions, product administration, and order reports.
+
+**Tech:** PHP · MySQL · HTML · CSS · JavaScript · jQuery  
+**Access:** Public Source
+
+[Explore the project →](https://github.com/tsvetomirdimitrovv/online-shopping-php)
+
+### 🌐 SmartHub — Tech Store Website
+
+A static multi-page website for a fictional technology store, with Home, Products, About, and Contact pages and responsive layouts.
+
+**Tech:** HTML5 · CSS3  
+**Access:** Public Source
+
+[Explore the project →](https://github.com/tsvetomirdimitrovv/yeb-technology)
+
+### 🧩 Computer Parts Information System — Design & Modeling
+
+Business workflow and data modeling for orders, suppliers, inventory, warehouse operations, and complaints. Includes UML diagrams, a relational database model, and a Power BI project.
+
+**Tech:** UML · ERwin · SQL · Power BI  
+**Access:** Public Design Artifacts
+
+[Explore the project →](https://github.com/tsvetomirdimitrovv/information-systems)
+
+### 🧠 Online Store Logic Model
+
+A Prolog coursework project using facts, rules, recursion, and list processing to classify products, filter by budget, and calculate shopping totals.
+
+**Tech:** Prolog · Logic Programming  
+**Access:** Public Project Files & Documentation
+
+[Explore the project →](https://github.com/tsvetomirdimitrovv/logical-pr)
+
+---
+
+## 🎯 Current Focus
+
+- Build complete applications with clearer setup and documentation.
+- Develop backend architecture and relational database skills.
+- Improve responsive interfaces and accessibility.
+- Strengthen automated testing and validation.
 
 ---
 
 ## 📬 Contact
-📍 Varna, Bulgaria  
-📸 Instagram: **@tsvetomir__dimitrov**
 
+📍 **Varna, Bulgaria**  
+📸 [Instagram — @tsvetomir__dimitrov](https://www.instagram.com/tsvetomir__dimitrov/)
